@@ -23,7 +23,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\CIS_18.10.56.3.11.1_DoNotDeleteTempFolders_Disabled.ps1 
+    PS C:\> .\CIS_18.9.33.6.2_ConnectedStandbyPluggedIn_Disabled.ps1
 #>
 
 # Define reg path and key
