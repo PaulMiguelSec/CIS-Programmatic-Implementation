@@ -23,7 +23,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\CIS_18.9.35.1_ConfigureOfferRemoteAssistance_Disabled.ps1
+    PS C:\> .\CIS_18.9.35.2_ConfigureSolicitedRemoteAssistance_Disabled.ps1
 #>
 
 # Define reg path and key
