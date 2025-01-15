@@ -15,7 +15,7 @@
     CIS Windows 10 Stand-alone v3.0.0: 18.9.35.1 (L1)
 
 .TESTED ON
-    Date(s) Tested  : 13-01-2025
+    Date(s) Tested  : 15-01-2025
     Tested By       : Paul Miguel Nieuwendyk
     Systems Tested  : WIN 10
     PowerShell Ver. : 5.1.19041.5247
