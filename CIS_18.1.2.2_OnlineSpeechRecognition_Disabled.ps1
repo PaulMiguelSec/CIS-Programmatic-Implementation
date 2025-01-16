@@ -25,7 +25,7 @@
 #>
 
 # Define reg path and key
-$registryPath = "HKLM:\Software\Policies\Microsoft\Windows\Personalization"
+$registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\InputPersonalization"
 $registryKey = "AllowInputPersonalization"
 
 # Check if reg path exists, if not, create it.
