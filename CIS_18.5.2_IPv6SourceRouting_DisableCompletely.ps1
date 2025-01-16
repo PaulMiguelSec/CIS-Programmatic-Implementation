@@ -35,3 +35,5 @@ if (-not(Test-Path -Path $registryPath)) {
 
 # Set reg key
 Set-ItemProperty -Path $registryPath -Name $registryKey -Value 2
+
+Write-Host "'MSS: (DisableIPSourceRouting IPv6) IP source routing protection level' is set to 'Enabled: Highest protection, source routing is completely disabled'"
